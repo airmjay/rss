@@ -1,4 +1,4 @@
-module github.com/airmjay/rss-aggregator
+module github.com/airmjay/rss
 
 go 1.25.6
 
